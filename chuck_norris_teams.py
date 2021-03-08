@@ -28,4 +28,4 @@ def post_message(): #function to post in Webex Teams
     print( response.text )
 
 
-post_message()
+post_message() #executes the post_message function
